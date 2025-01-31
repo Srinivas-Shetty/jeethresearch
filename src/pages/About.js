@@ -2,7 +2,7 @@ import React from "react";
 
 const About = () => {
     return (
-        <>
+        <> 
             <div className="relative bg-[url('https://img.freepik.com/premium-photo/composite-image-high-angle-portrait-business-people-with-arms-crossed-against-white-background_1134-12934.jpg?ga=GA1.1.1090635578.1728977120&semt=ais_hybrid')] bg-cover bg-center py-12 px-6 md:px-16 lg:px-24 h-64 flex items-center justify-center">
                     <div className="absolute inset-0 bg-black opacity-50 z-0"></div>
                     <div className="relative max-w-4xl mx-auto text-center z-10">
